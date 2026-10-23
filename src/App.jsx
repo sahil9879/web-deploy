@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import Intro, { REVEAL_MS } from './components/Intro'
+import Intro, { REVEAL_MS } from './components/intro.jsx'
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import About from './components/About'
