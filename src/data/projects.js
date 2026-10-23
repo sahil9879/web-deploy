@@ -1,0 +1,48 @@
+// Concept / practice work only: none of these are client engagements.
+// Each one matches a skill. To add real work later, append an entry; layout needs no changes.
+export const projects = [
+  {
+    id: 'social-campaign',
+    skill: 'Digital Marketing',
+    title: 'Social Media Campaign',
+    label: 'Practice Concept',
+    preview: 'marketing',
+    description: 'A sample social media post for a fictional brand, built around one message and one call to action.',
+    demonstrates: 'Message clarity, audience thinking and a clear call to action.',
+    tags: ['Social media', 'Messaging'],
+    alt: 'Illustrated social media post concept with a short headline and a learn-more button',
+  },
+  {
+    id: 'brand-identity',
+    skill: 'Graphic Design',
+    title: 'Brand Identity Exploration',
+    label: 'Personal Practice Concept',
+    preview: 'design',
+    description: 'A small fictional branding exercise with a logo mark, a coordinated colour palette and a type sample.',
+    demonstrates: 'Consistency across colour, typography and layout in a simple identity.',
+    tags: ['Colour', 'Typography', 'Logo mark'],
+    alt: 'Illustrated brand identity concept showing a logo mark, a type sample and colour swatches',
+  },
+  {
+    id: 'website-layout',
+    skill: 'Web Development',
+    title: 'Responsive Website Layout',
+    label: 'Practice Concept',
+    preview: 'web',
+    description: 'A sample website layout for a fictional business that adapts from desktop to mobile.',
+    demonstrates: 'Page structure, readable layout and responsive thinking.',
+    tags: ['Layout', 'Responsive'],
+    alt: 'Illustrated browser window and phone showing a simple responsive website layout',
+  },
+  {
+    id: 'office-layout',
+    skill: 'MS Office',
+    title: 'Presentation & Sheet Layout',
+    label: 'Sample Exercise',
+    preview: 'office',
+    description: 'A sample slide and spreadsheet layout for a fictional report.',
+    demonstrates: 'Clean formatting and presenting information clearly.',
+    tags: ['Presentation', 'Spreadsheet'],
+    alt: 'Illustrated presentation slide with a simple chart next to a small spreadsheet grid',
+  },
+]
